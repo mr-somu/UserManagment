@@ -1,0 +1,28 @@
+# dependencies
+/node_modules
+
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+
+# coverage
+/coverage
+
+# cache
+.cache
+.parcel-cache
+
+# next.js (if used later)
+.next/
+
+# temp files
+*.tmp
+*.temp
+
+# optional lock files (keep if needed)
+# package-lock.json
+# yarn.lock
